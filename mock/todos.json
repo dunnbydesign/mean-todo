@@ -1,0 +1,8 @@
+[
+  { "name": "walk the dog", "completed": true },
+  { "name": "pay the bills", "completed": false },
+  { "name": "make travel arrangements", "completed": true },
+  { "name": "buy groceries", "completed": false },
+  { "name": "do homework", "completed": true },
+  { "name": "prepare dinner", "completed": false }
+]
